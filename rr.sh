@@ -1,3 +1,4 @@
+echo "Navya Navya"
 #!/bin/bash
 echo "Enter the filename"
 read file
