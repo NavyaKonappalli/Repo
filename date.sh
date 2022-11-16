@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Hey Hey"
 echo "Enter 1 to add two numbers \n Enter 2 to sub two numbers \n Enter 3 to multiply 2 number"
 read select
 day=`date '+%a'`
