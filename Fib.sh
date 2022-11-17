@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "Enter the value"
-read n
+echo "Enter Navya's value"
+read sush
 a=0
 b=1
 i=1
@@ -11,4 +11,4 @@ do
         a=$b
         b=$N
         i=$((i+1))
-done
+done nav
