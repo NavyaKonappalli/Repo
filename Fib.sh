@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Enter the value"
+echo "Enter the value & enter another number"
 read n
 a=0
 b=1
