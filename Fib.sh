@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Way to Webhook"
+echo "Way to Webhooks"
 echo "Enter the value & enter another number"
 read n
 a=0
